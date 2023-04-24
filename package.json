@@ -1,0 +1,23 @@
+{
+  "name": "search-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "breadthFirstSearch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsraaMoqbel/search-algorithms.git"
+  },
+  "keywords": [
+    "search",
+    "algorithms"
+  ],
+  "author": "Israa Moqbel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsraaMoqbel/search-algorithms/issues"
+  },
+  "homepage": "https://github.com/IsraaMoqbel/search-algorithms#readme"
+}
